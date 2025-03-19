@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Batman",
+        "author": "Stan Lee",
+        "year": 2000,
+        "genre": "Comic",
+        "read": true
+    },
+    {
+        "title": "Ali Baba And Fourty Thieves",
+        "author": "Khan",
+        "year": 1990,
+        "genre": "Fairy Tale",
+        "read": false
+    }
+]
